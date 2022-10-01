@@ -1,15 +1,15 @@
 # luakit
-一个基于C++17的lua绑定库。
+A Lua binding library based on C++17.
 
-# 依赖
+# Dependency
 - c++17
-- [lua](https://github.com/xiyoo0812/lua.git)5.2以上
-- 项目路径如下<br>
+- [lua](https://github.com/xiyoo0812/lua.git)5.2
+- The project path is as follows<br>
   |--proj <br>
   &emsp;|--lua <br>
   &emsp;|--luakit <br>
 
-# 功能
-- 只有头文件，不需编译
+# Function
+- Only header files, no need to compile
 
-# lua使用方法
+# How to use lua
